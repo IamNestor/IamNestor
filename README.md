@@ -64,7 +64,7 @@
 - Azure Data Factory
 
 ### 📫 Cómo contactarme:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([tu-linkedin](https://www.linkedin.com/in/nestor-emilio-parra-rivas-7b6593307/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nestor-emilio-parra-rivas-7b6593307/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nestoremiliopr2004@gmail.com)
 
 ### 🌎 Idiomas:
