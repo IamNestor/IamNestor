@@ -38,20 +38,20 @@
 > - Panel de administración
 > - Tecnologías: Node.js, Express, MySQL
 
-#### 🎬 [AppCine - Catálogo de Películas]([enlace-github](https://github.com/IamNestor/CinemaPlusPlus))
+#### 🎬 [AppCine - Catálogo de Películas](https://github.com/IamNestor/CinemaPlusPlus)
 > Plataforma para gestión de contenido audiovisual:
 > - Organización por géneros y categorías
 > - Sistema de valoraciones
 > - Tecnologías: Django, PostgreSQL
 
-#### 📈 [Applo Dashboard - Análisis Financiero en Power BI]([enlace-github](https://github.com/IamNestor/applo-dashboard))
+#### 📈 [Applo Dashboard - Análisis Financiero en Power BI](https://github.com/IamNestor/applo-dashboard)
 > Dashboard interactivo para análisis de rentabilidad:
 > - Procesamiento ETL con Power Query
 > - Visualizaciones geoespaciales
 > - Métricas financieras filtrables
 > - Expresiones DAX avanzadas
 
-#### 🏡 [AppRealstate - Plataforma Inmobiliaria]([enlace-github](https://github.com/neutralAMG/Real-state-app))
+#### 🏡 [AppRealstate - Plataforma Inmobiliaria](https://github.com/neutralAMG/Real-state-app)
 > Sistema completo para gestión de propiedades:
 > - Múltiples roles de usuario
 > - Sistema de verificación por email
