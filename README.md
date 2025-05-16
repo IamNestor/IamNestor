@@ -31,7 +31,7 @@
 
 ### 🌟 Proyectos Destacados:
 
-#### 🍔 <a href="https://github.com/IamNestor/PedidosYa" style="color: white;">AppComida - Plataforma de Pedidos Online</a>
+#### 🍔 [AppComida - Plataforma de Pedidos Online](https://github.com/IamNestor/PedidosYa)
 > Sistema completo similar a PedidosYa con:
 > - Registro de múltiples tipos de usuarios
 > - Sistema de pedidos en tiempo real
